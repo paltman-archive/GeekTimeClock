@@ -1,0 +1,1047 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {743, 420}}";
+			sepNavSelRange = "{44, 0}";
+			sepNavVisRange = "{0, 44}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 524}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1020, 832}}";
+			sepNavSelRange = "{114, 0}";
+			sepNavVisRange = "{0, 1054}";
+		};
+	};
+	256AC3F00F4B6AF500CF3369 /* GeekTimeClock_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 524}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 157}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = CD8344B7120C8C92007597D8 /* GeekTimeClock */;
+		activeTarget = 8D1107260486CEB800E47090 /* GeekTimeClock */;
+		codeSenseManager = CD8344CB120C8CA8007597D8 /* Code sense */;
+		executables = (
+			CD8344B7120C8C92007597D8 /* GeekTimeClock */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					805,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					505,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302827080;
+			PBXWorkspaceStateSaveDate = 302827080;
+		};
+		perUserProjectItems = {
+			CD8344DD120C9CAD007597D8 = CD8344DD120C9CAD007597D8 /* PlistBookmark */;
+			CD8344DE120C9CAD007597D8 = CD8344DE120C9CAD007597D8 /* PBXTextBookmark */;
+			CD8344EE120C9E3F007597D8 = CD8344EE120C9E3F007597D8 /* PBXTextBookmark */;
+			CD8344EF120C9E3F007597D8 = CD8344EF120C9E3F007597D8 /* PBXTextBookmark */;
+			CD834503120CBC3A007597D8 = CD834503120CBC3A007597D8 /* PBXTextBookmark */;
+			CD834521120CC40C007597D8 = CD834521120CC40C007597D8 /* PBXTextBookmark */;
+			CD834534120CC640007597D8 = CD834534120CC640007597D8 /* PBXTextBookmark */;
+			CD834583120CD4C4007597D8 /* XCBuildMessageTextBookmark */ = CD834583120CD4C4007597D8 /* XCBuildMessageTextBookmark */;
+			CD834584120CD4C4007597D8 /* PBXTextBookmark */ = CD834584120CD4C4007597D8 /* PBXTextBookmark */;
+			CD83458D120CD4CE007597D8 /* XCBuildMessageTextBookmark */ = CD83458D120CD4CE007597D8 /* XCBuildMessageTextBookmark */;
+			CD83458E120CD4CE007597D8 /* PBXTextBookmark */ = CD83458E120CD4CE007597D8 /* PBXTextBookmark */;
+			CD834594120CD56A007597D8 /* PBXTextBookmark */ = CD834594120CD56A007597D8 /* PBXTextBookmark */;
+			CD834595120CD56A007597D8 /* XCBuildMessageTextBookmark */ = CD834595120CD56A007597D8 /* XCBuildMessageTextBookmark */;
+			CD834596120CD56A007597D8 /* PBXTextBookmark */ = CD834596120CD56A007597D8 /* PBXTextBookmark */;
+			CD8345A0120CD69B007597D8 /* PBXTextBookmark */ = CD8345A0120CD69B007597D8 /* PBXTextBookmark */;
+			CD8345A7120CD8A1007597D8 /* PBXTextBookmark */ = CD8345A7120CD8A1007597D8 /* PBXTextBookmark */;
+			CD8345A8120CD8A1007597D8 /* PBXTextBookmark */ = CD8345A8120CD8A1007597D8 /* PBXTextBookmark */;
+			CD8345A9120CD8D8007597D8 /* PBXTextBookmark */ = CD8345A9120CD8D8007597D8 /* PBXTextBookmark */;
+			CD8345BA120CD9D0007597D8 /* PBXTextBookmark */ = CD8345BA120CD9D0007597D8 /* PBXTextBookmark */;
+			CD8345BB120CD9D0007597D8 /* PBXTextBookmark */ = CD8345BB120CD9D0007597D8 /* PBXTextBookmark */;
+			CD8345BF120CD9F6007597D8 /* PBXTextBookmark */ = CD8345BF120CD9F6007597D8 /* PBXTextBookmark */;
+			CD8345C0120CD9F6007597D8 /* PBXTextBookmark */ = CD8345C0120CD9F6007597D8 /* PBXTextBookmark */;
+			CD8345C1120CD9F6007597D8 /* PBXTextBookmark */ = CD8345C1120CD9F6007597D8 /* PBXTextBookmark */;
+			CD8345C5120CDA4C007597D8 /* PBXTextBookmark */ = CD8345C5120CDA4C007597D8 /* PBXTextBookmark */;
+			CD8345C6120CDA4C007597D8 /* PBXTextBookmark */ = CD8345C6120CDA4C007597D8 /* PBXTextBookmark */;
+			CD8345C7120CDA4C007597D8 /* PBXTextBookmark */ = CD8345C7120CDA4C007597D8 /* PBXTextBookmark */;
+			CD8345CE120CDAE7007597D8 /* PBXTextBookmark */ = CD8345CE120CDAE7007597D8 /* PBXTextBookmark */;
+			CD8345D2120CDB3A007597D8 /* PBXTextBookmark */ = CD8345D2120CDB3A007597D8 /* PBXTextBookmark */;
+			CD8345D5120CDB45007597D8 /* PBXTextBookmark */ = CD8345D5120CDB45007597D8 /* PBXTextBookmark */;
+			CD8345DB120CDBC5007597D8 /* PBXTextBookmark */ = CD8345DB120CDBC5007597D8 /* PBXTextBookmark */;
+			CD8345DF120CDBE1007597D8 /* PBXTextBookmark */ = CD8345DF120CDBE1007597D8 /* PBXTextBookmark */;
+			CD8345E3120CDBF0007597D8 /* PBXTextBookmark */ = CD8345E3120CDBF0007597D8 /* PBXTextBookmark */;
+			CD8345E7120CDC03007597D8 /* PBXTextBookmark */ = CD8345E7120CDC03007597D8 /* PBXTextBookmark */;
+			CD8345EB120CDC2C007597D8 /* PBXTextBookmark */ = CD8345EB120CDC2C007597D8 /* PBXTextBookmark */;
+			CD8345F0120CDD12007597D8 /* PBXTextBookmark */ = CD8345F0120CDD12007597D8 /* PBXTextBookmark */;
+			CD8345F5120D061E007597D8 /* PBXTextBookmark */ = CD8345F5120D061E007597D8 /* PBXTextBookmark */;
+			CD8345FA120D063D007597D8 /* PBXTextBookmark */ = CD8345FA120D063D007597D8 /* PBXTextBookmark */;
+			CD834602120D070F007597D8 /* XCBuildMessageTextBookmark */ = CD834602120D070F007597D8 /* XCBuildMessageTextBookmark */;
+			CD834603120D070F007597D8 /* PBXTextBookmark */ = CD834603120D070F007597D8 /* PBXTextBookmark */;
+			CD834605120D0E6F007597D8 /* PBXTextBookmark */ = CD834605120D0E6F007597D8 /* PBXTextBookmark */;
+			CD834606120D0EDD007597D8 /* PBXTextBookmark */ = CD834606120D0EDD007597D8 /* PBXTextBookmark */;
+			CD83460F120D0F32007597D8 /* PBXTextBookmark */ = CD83460F120D0F32007597D8 /* PBXTextBookmark */;
+			CD834611120D0F4F007597D8 /* PBXTextBookmark */ = CD834611120D0F4F007597D8 /* PBXTextBookmark */;
+			CD834617120D12D8007597D8 /* PBXTextBookmark */ = CD834617120D12D8007597D8 /* PBXTextBookmark */;
+			CD83461B120D12E4007597D8 /* PBXTextBookmark */ = CD83461B120D12E4007597D8 /* PBXTextBookmark */;
+			CD834620120D1305007597D8 /* PBXTextBookmark */ = CD834620120D1305007597D8 /* PBXTextBookmark */;
+			CD834623120D138A007597D8 /* XCBuildMessageTextBookmark */ = CD834623120D138A007597D8 /* XCBuildMessageTextBookmark */;
+			CD834624120D138A007597D8 /* PBXTextBookmark */ = CD834624120D138A007597D8 /* PBXTextBookmark */;
+			CD834627120D13C1007597D8 /* PBXTextBookmark */ = CD834627120D13C1007597D8 /* PBXTextBookmark */;
+			CD834628120D13C1007597D8 /* PBXTextBookmark */ = CD834628120D13C1007597D8 /* PBXTextBookmark */;
+			CD83462C120D13D0007597D8 /* PBXTextBookmark */ = CD83462C120D13D0007597D8 /* PBXTextBookmark */;
+			CD834639120D1591007597D8 /* PBXTextBookmark */ = CD834639120D1591007597D8 /* PBXTextBookmark */;
+			CD83463F120D164C007597D8 /* PBXTextBookmark */ = CD83463F120D164C007597D8 /* PBXTextBookmark */;
+			CD834647120D169B007597D8 /* PBXTextBookmark */ = CD834647120D169B007597D8 /* PBXTextBookmark */;
+			CD83464B120D16C7007597D8 /* PBXTextBookmark */ = CD83464B120D16C7007597D8 /* PBXTextBookmark */;
+			CD834656120D1813007597D8 /* XCBuildMessageTextBookmark */ = CD834656120D1813007597D8 /* XCBuildMessageTextBookmark */;
+			CD834657120D1813007597D8 /* PBXTextBookmark */ = CD834657120D1813007597D8 /* PBXTextBookmark */;
+			CD83465B120D18C1007597D8 /* PBXTextBookmark */ = CD83465B120D18C1007597D8 /* PBXTextBookmark */;
+			CD834664120D1A25007597D8 /* PBXTextBookmark */ = CD834664120D1A25007597D8 /* PBXTextBookmark */;
+			CD83466E120D1AB3007597D8 /* PBXTextBookmark */ = CD83466E120D1AB3007597D8 /* PBXTextBookmark */;
+			CD834672120D1AC3007597D8 /* PBXTextBookmark */ = CD834672120D1AC3007597D8 /* PBXTextBookmark */;
+			CD834676120D1AEF007597D8 /* PBXTextBookmark */ = CD834676120D1AEF007597D8 /* PBXTextBookmark */;
+			CD83467B120D1B52007597D8 /* PBXTextBookmark */ = CD83467B120D1B52007597D8 /* PBXTextBookmark */;
+			CD83467F120D1B7F007597D8 /* PBXTextBookmark */ = CD83467F120D1B7F007597D8 /* PBXTextBookmark */;
+			CD834683120D1BF0007597D8 /* PBXTextBookmark */ = CD834683120D1BF0007597D8 /* PBXTextBookmark */;
+			CD834687120D1C1F007597D8 /* PBXTextBookmark */ = CD834687120D1C1F007597D8 /* PBXTextBookmark */;
+			CD834689120D1C94007597D8 /* PBXTextBookmark */ = CD834689120D1C94007597D8 /* PBXTextBookmark */;
+			CD83468E120D1D34007597D8 /* PBXTextBookmark */ = CD83468E120D1D34007597D8 /* PBXTextBookmark */;
+			CD834694120D1DED007597D8 /* PBXTextBookmark */ = CD834694120D1DED007597D8 /* PBXTextBookmark */;
+			CD834697120D1E18007597D8 /* PBXTextBookmark */ = CD834697120D1E18007597D8 /* PBXTextBookmark */;
+			CD83469C120D1EA8007597D8 /* PBXTextBookmark */ = CD83469C120D1EA8007597D8 /* PBXTextBookmark */;
+			CD8346A0120D1EB4007597D8 /* PBXTextBookmark */ = CD8346A0120D1EB4007597D8 /* PBXTextBookmark */;
+			CD8346A2120D1FBD007597D8 /* PBXTextBookmark */ = CD8346A2120D1FBD007597D8 /* PBXTextBookmark */;
+			CD8346A7120D1FDF007597D8 /* PBXTextBookmark */ = CD8346A7120D1FDF007597D8 /* PBXTextBookmark */;
+			CD8346A9120D207F007597D8 /* PBXTextBookmark */ = CD8346A9120D207F007597D8 /* PBXTextBookmark */;
+			CD8346AB120D2176007597D8 /* PBXTextBookmark */ = CD8346AB120D2176007597D8 /* PBXTextBookmark */;
+			CD8346AC120D2176007597D8 /* PBXTextBookmark */ = CD8346AC120D2176007597D8 /* PBXTextBookmark */;
+			CD8346AD120D2176007597D8 /* PBXTextBookmark */ = CD8346AD120D2176007597D8 /* PBXTextBookmark */;
+			CD8346B0120D223F007597D8 /* PBXTextBookmark */ = CD8346B0120D223F007597D8 /* PBXTextBookmark */;
+			CD8346B1120D223F007597D8 /* PBXTextBookmark */ = CD8346B1120D223F007597D8 /* PBXTextBookmark */;
+			CD8346B2120D223F007597D8 /* PBXTextBookmark */ = CD8346B2120D223F007597D8 /* PBXTextBookmark */;
+			CD8346B5120D225E007597D8 /* PBXTextBookmark */ = CD8346B5120D225E007597D8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = CD8344CA120C8CA8007597D8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {983, 524}}";
+			sepNavSelRange = "{94, 0}";
+			sepNavVisRange = "{0, 242}";
+		};
+	};
+	8D1107260486CEB800E47090 /* GeekTimeClock */ = {
+		activeExec = 0;
+		executables = (
+			CD8344B7120C8C92007597D8 /* GeekTimeClock */,
+		);
+	};
+	8D1107310486CEB800E47090 /* GeekTimeClock-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	CD8344B7120C8C92007597D8 /* GeekTimeClock */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GeekTimeClock;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	CD8344CA120C8CA8007597D8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	CD8344CB120C8CA8007597D8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	CD8344DD120C9CAD007597D8 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* GeekTimeClock-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/patrick/Projects/eldarion/GeekTimeClock/GeekTimeClock-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	CD8344DE120C9CAD007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 252;
+		vrLoc = 0;
+	};
+	CD8344EE120C9E3F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 2";
+		rLen = 0;
+		rLoc = 44;
+		rType = 0;
+		vrLen = 44;
+		vrLoc = 0;
+	};
+	CD8344EF120C9E3F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3F00F4B6AF500CF3369 /* GeekTimeClock_Prefix.pch */;
+		name = "GeekTimeClock_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 157;
+		vrLoc = 0;
+	};
+	CD834503120CBC3A007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 390;
+		vrLoc = 0;
+	};
+	CD834521120CC40C007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'selector' undeclared (first use in this function)";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		rLen = 1;
+		rLoc = 34;
+		rType = 1;
+	};
+	CD834534120CC640007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 188;
+	};
+	CD834583120CD4C4007597D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 1 of 'setTitle:' makes pointer from integer without a cast";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 52;
+		rType = 1;
+	};
+	CD834584120CD4C4007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 640;
+	};
+	CD83458D120CD4CE007597D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 1 of 'setTitle:' makes pointer from integer without a cast";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 52;
+		rType = 1;
+	};
+	CD83458E120CD4CE007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 433;
+		vrLoc = 586;
+	};
+	CD834594120CD56A007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 330;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	CD834595120CD56A007597D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 1 of 'setTitle:' makes pointer from integer without a cast";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 52;
+		rType = 1;
+	};
+	CD834596120CD56A007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 189;
+	};
+	CD8345A0120CD69B007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 190;
+	};
+	CD8345A7120CD8A1007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 684;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 190;
+	};
+	CD8345A8120CD8A1007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 15";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 464;
+		vrLoc = 0;
+	};
+	CD8345A9120CD8D8007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	CD8345BA120CD9D0007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	CD8345BB120CD9D0007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 189;
+	};
+	CD8345BF120CD9F6007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 913;
+		vrLoc = 188;
+	};
+	CD8345C0120CD9F6007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 436;
+		vrLoc = 0;
+	};
+	CD8345C1120CD9F6007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	CD8345C5120CDA4C007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 18";
+		rLen = 0;
+		rLoc = 365;
+		rType = 0;
+		vrLen = 435;
+		vrLoc = 0;
+	};
+	CD8345C6120CDA4C007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 37";
+		rLen = 0;
+		rLoc = 909;
+		rType = 0;
+		vrLen = 911;
+		vrLoc = 190;
+	};
+	CD8345C7120CDA4C007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 39";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 849;
+		vrLoc = 151;
+	};
+	CD8345CE120CDAE7007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 874;
+		vrLoc = 190;
+	};
+	CD8345D2120CDB3A007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 926;
+		vrLoc = 252;
+	};
+	CD8345D5120CDB45007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 916;
+		vrLoc = 252;
+	};
+	CD8345DB120CDBC5007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 252;
+	};
+	CD8345DF120CDBE1007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 962;
+		vrLoc = 252;
+	};
+	CD8345E3120CDBF0007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 896;
+		vrLoc = 252;
+	};
+	CD8345E7120CDC03007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 897;
+		vrLoc = 252;
+	};
+	CD8345EB120CDC2C007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 915;
+		vrLoc = 252;
+	};
+	CD8345F0120CDD12007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 42";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 910;
+		vrLoc = 252;
+	};
+	CD8345F5120D061E007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1014;
+		vrLoc = 325;
+	};
+	CD8345FA120D063D007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1086;
+		vrLoc = 253;
+	};
+	CD834602120D070F007597D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 1 of 'NSLog' from incompatible pointer type";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 52;
+		rType = 1;
+	};
+	CD834603120D070F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1045;
+		vrLoc = 325;
+	};
+	CD834605120D0E6F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 253;
+	};
+	CD834606120D0EDD007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 253;
+	};
+	CD83460F120D0F32007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 325;
+	};
+	CD834611120D0F4F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1120;
+		vrLoc = 325;
+	};
+	CD834617120D12D8007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1137;
+		vrLoc = 325;
+	};
+	CD83461B120D12E4007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1139;
+		vrLoc = 325;
+	};
+	CD834620120D1305007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 43";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1120;
+		vrLoc = 325;
+	};
+	CD834623120D138A007597D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Passing argument 1 of 'NSLog' from incompatible pointer type";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 52;
+		rType = 1;
+	};
+	CD834624120D138A007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 47";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 776;
+		vrLoc = 781;
+	};
+	CD834627120D13C1007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 325;
+	};
+	CD834628120D13C1007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1097;
+		vrLoc = 325;
+	};
+	CD83462C120D13D0007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 325;
+	};
+	CD834639120D1591007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 51";
+		rLen = 0;
+		rLoc = 912;
+		rType = 0;
+		vrLen = 1147;
+		vrLoc = 488;
+	};
+	CD83463F120D164C007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 44";
+		rLen = 0;
+		rLoc = 867;
+		rType = 0;
+		vrLen = 1167;
+		vrLoc = 454;
+	};
+	CD834647120D169B007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 867;
+		rType = 0;
+		vrLen = 1148;
+		vrLoc = 454;
+	};
+	CD83464B120D16C7007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1339;
+		rType = 0;
+		vrLen = 1098;
+		vrLoc = 325;
+	};
+	CD834656120D1813007597D8 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Invalid operands to binary * (have 'int' and 'struct NSNumber *')";
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 52;
+		rType = 1;
+	};
+	CD834657120D1813007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1300;
+		vrLoc = 328;
+	};
+	CD83465B120D18C1007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 1628;
+		rType = 0;
+		vrLen = 1271;
+		vrLoc = 328;
+	};
+	CD834664120D1A25007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 48";
+		rLen = 0;
+		rLoc = 1411;
+		rType = 0;
+		vrLen = 1341;
+		vrLoc = 522;
+	};
+	CD83466E120D1AB3007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1339;
+		rType = 0;
+		vrLen = 1230;
+		vrLoc = 488;
+	};
+	CD834672120D1AC3007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 45";
+		rLen = 0;
+		rLoc = 1339;
+		rType = 0;
+		vrLen = 1228;
+		vrLoc = 488;
+	};
+	CD834676120D1AEF007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 1486;
+		rType = 0;
+		vrLen = 1220;
+		vrLoc = 488;
+	};
+	CD83467B120D1B52007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 1486;
+		rType = 0;
+		vrLen = 1217;
+		vrLoc = 488;
+	};
+	CD83467F120D1B7F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 49";
+		rLen = 0;
+		rLoc = 1486;
+		rType = 0;
+		vrLen = 1219;
+		vrLoc = 488;
+	};
+	CD834683120D1BF0007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 52";
+		rLen = 0;
+		rLoc = 1602;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 488;
+	};
+	CD834687120D1C1F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 53";
+		rLen = 0;
+		rLoc = 1602;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 622;
+	};
+	CD834689120D1C94007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 53";
+		rLen = 0;
+		rLoc = 1519;
+		rType = 0;
+		vrLen = 1207;
+		vrLoc = 622;
+	};
+	CD83468E120D1D34007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 53";
+		rLen = 0;
+		rLoc = 1519;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 622;
+	};
+	CD834694120D1DED007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 54";
+		rLen = 0;
+		rLoc = 1595;
+		rType = 0;
+		vrLen = 1263;
+		vrLoc = 669;
+	};
+	CD834697120D1E18007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 54";
+		rLen = 0;
+		rLoc = 1598;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 669;
+	};
+	CD83469C120D1EA8007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 55";
+		rLen = 0;
+		rLoc = 1600;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 669;
+	};
+	CD8346A0120D1EB4007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 55";
+		rLen = 0;
+		rLoc = 1598;
+		rType = 0;
+		vrLen = 1274;
+		vrLoc = 669;
+	};
+	CD8346A2120D1FBD007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 940;
+		rType = 0;
+		vrLen = 1217;
+		vrLoc = 622;
+	};
+	CD8346A7120D1FDF007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 38";
+		rLen = 0;
+		rLoc = 911;
+		rType = 0;
+		vrLen = 1232;
+		vrLoc = 622;
+	};
+	CD8346A9120D207F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 511;
+		rType = 0;
+		vrLen = 1408;
+		vrLoc = 231;
+	};
+	CD8346AB120D2176007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 491;
+		rType = 0;
+		vrLen = 479;
+		vrLoc = 0;
+	};
+	CD8346AC120D2176007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 511;
+		rType = 0;
+		vrLen = 1394;
+		vrLoc = 252;
+	};
+	CD8346AD120D2176007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1762;
+		rType = 0;
+		vrLen = 1457;
+		vrLoc = 328;
+	};
+	CD8346B0120D223F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* GeekTimeClockAppDelegate.h */;
+		name = "GeekTimeClockAppDelegate.h: 22";
+		rLen = 29;
+		rLoc = 462;
+		rType = 0;
+		vrLen = 508;
+		vrLoc = 0;
+	};
+	CD8346B1120D223F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1762;
+		rType = 0;
+		vrLen = 1457;
+		vrLoc = 328;
+	};
+	CD8346B2120D223F007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 62";
+		rLen = 0;
+		rLoc = 1811;
+		rType = 0;
+		vrLen = 1331;
+		vrLoc = 488;
+	};
+	CD8346B5120D225E007597D8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D90F4B6AC300CF3369 /* GeekTimeClockAppDelegate.m */;
+		name = "GeekTimeClockAppDelegate.m: 61";
+		rLen = 0;
+		rLoc = 1810;
+		rType = 0;
+		vrLen = 1335;
+		vrLoc = 488;
+	};
+}
