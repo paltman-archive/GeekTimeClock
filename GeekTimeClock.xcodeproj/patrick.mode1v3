@@ -331,15 +331,15 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>CD8346B5120D225E007597D8</string>
+										<string>CD37D336120DEE0C0092ACB5</string>
 										<key>history</key>
 										<array>
-											<string>CD8344DD120C9CAD007597D8</string>
-											<string>CD8344DE120C9CAD007597D8</string>
-											<string>CD8344EE120C9E3F007597D8</string>
-											<string>CD8344EF120C9E3F007597D8</string>
-											<string>CD8346B0120D223F007597D8</string>
-											<string>CD8346B1120D223F007597D8</string>
+											<string>CD8346C2120D247B007597D8</string>
+											<string>CD8346C3120D247B007597D8</string>
+											<string>CD8346C4120D247B007597D8</string>
+											<string>CD8346C6120D247B007597D8</string>
+											<string>CD8346C9120D25E2007597D8</string>
+											<string>CD8346CA120D25E2007597D8</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -351,14 +351,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {1044, 556}}</string>
+								<string>{{0, 0}, {1044, 551}}</string>
 								<key>RubberWindowFrame</key>
 								<string>104 89 1252 789 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>556pt</string>
+							<string>551pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -371,14 +371,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 561}, {1044, 187}}</string>
+								<string>{{0, 556}, {1044, 192}}</string>
 								<key>RubberWindowFrame</key>
 								<string>104 89 1252 789 0 0 1440 878 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>187pt</string>
+							<string>192pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -397,9 +397,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>CD834597120CD56A007597D8</string>
+				<string>CD37D305120DEC7F0092ACB5</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>CD834598120CD56A007597D8</string>
+				<string>CD37D306120DEC7F0092ACB5</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -537,9 +537,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>CD8346B6120D225E007597D8</string>
-		<string>CD83459A120CD56A007597D8</string>
-		<string>CD83459B120CD56A007597D8</string>
+		<string>CD37D316120DECDF0092ACB5</string>
+		<string>CD37D317120DECDF0092ACB5</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>CD8344C8120C8CA8007597D8</string>
@@ -567,7 +566,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>GeekTimeClockAppDelegate.m</string>
+								<string></string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -584,8 +583,6 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -625,7 +622,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>CD8344C8120C8CA8007597D8</string>
-				<string>CD834585120CD4C4007597D8</string>
+				<string>CD37D307120DEC7F0092ACB5</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
@@ -638,7 +635,7 @@
 			<key>WindowToolGUID</key>
 			<string>CD8344C8120C8CA8007597D8</string>
 			<key>WindowToolIsVisible</key>
-			<true/>
+			<false/>
 		</dict>
 		<dict>
 			<key>FirstTimeWindowDisplayed</key>
@@ -669,8 +666,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {316, 194}}</string>
-											<string>{{316, 0}, {378, 194}}</string>
+											<string>{{0, 0}, {316, 198}}</string>
+											<string>{{316, 0}, {378, 198}}</string>
 										</array>
 									</dict>
 									<key>VerticalSplitView</key>
@@ -685,8 +682,8 @@
 										<string>yes</string>
 										<key>sizes</key>
 										<array>
-											<string>{{0, 0}, {694, 194}}</string>
-											<string>{{0, 194}, {694, 187}}</string>
+											<string>{{0, 0}, {694, 198}}</string>
+											<string>{{0, 198}, {694, 183}}</string>
 										</array>
 									</dict>
 								</dict>
@@ -719,7 +716,7 @@
 										<real>148</real>
 									</array>
 									<key>Frame</key>
-									<string>{{316, 0}, {378, 194}}</string>
+									<string>{{316, 0}, {378, 198}}</string>
 									<key>RubberWindowFrame</key>
 									<string>321 353 694 422 0 0 1440 878 </string>
 								</dict>
@@ -747,13 +744,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>CD834586120CD4C4007597D8</string>
+				<string>CD37D30E120DECDF0092ACB5</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>CD834587120CD4C4007597D8</string>
-				<string>CD834588120CD4C4007597D8</string>
-				<string>CD834589120CD4C4007597D8</string>
-				<string>CD83458A120CD4C4007597D8</string>
-				<string>CD83458B120CD4C4007597D8</string>
+				<string>CD37D30F120DECDF0092ACB5</string>
+				<string>CD37D310120DECDF0092ACB5</string>
+				<string>CD37D311120DECDF0092ACB5</string>
+				<string>CD37D312120DECDF0092ACB5</string>
+				<string>CD37D313120DECDF0092ACB5</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -915,7 +912,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>CD83458C120CD4C4007597D8</string>
+				<string>CD37D314120DECDF0092ACB5</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

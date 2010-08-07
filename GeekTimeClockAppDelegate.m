@@ -49,8 +49,7 @@
 	float partial_day = ((hour_seconds + minute_seconds + second) / (86400.0));
 	float gt = 65536 * partial_day;
 	int igt = (int)gt;
-	NSString* s = [[NSString alloc] initWithFormat:@"0x%X", igt];
-	[statusItem setTitle:s];
+	[statusItem setTitle:[NSString stringWithFormat:@"0x%X", igt]];
 }
 
 - (IBAction)openGeekTimeDotOrg:(id)sender {
