@@ -33,6 +33,7 @@
 
 	[[NSRunLoop currentRunLoop] addTimer:timer forMode:NSDefaultRunLoopMode];
 	[timer fire];
+	[timer release];
 }
 
 - (void)timerFireMethod:(NSTimer *)aTimer {
