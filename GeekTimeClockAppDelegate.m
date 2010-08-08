@@ -17,22 +17,17 @@
 -(void)awakeFromNib {
 	UTC = [NSTimeZone timeZoneWithName:@"UTC"];
 	showLSB = NO;
+	
  	statusItem = [[[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength] retain];
 	[statusItem setMenu:statusMenu];
 	[statusItem setTitle:@"Geek Time"];
 	[statusItem setHighlightMode:YES];
-	NSDate *d = [NSDate date];
-	NSTimer *timer = [[NSTimer alloc] 
-					 initWithFireDate:d
-							 interval:0.65
-							   target:self 
-							 selector:@selector(timerFireMethod:)
-							 userInfo:nil
-							  repeats:YES];
-
-	[[NSRunLoop currentRunLoop] addTimer:timer forMode:NSDefaultRunLoopMode];
-	[timer fire];
-	[timer release];
+	
+	[NSTimer scheduledTimerWithTimeInterval:0.65 
+									 target:self 
+								   selector:@selector(timerFireMethod:) 
+								   userInfo:nil 
+									repeats:YES];
 }
 
 - (void)timerFireMethod:(NSTimer *)aTimer {
@@ -50,7 +45,6 @@
 	
 	float gt = 65536 * ((hour_seconds + minute_seconds + seconds + ms) / (86400000.0));
 
-	NSLog(@"%f %d 0x%X", gt, (int)round(gt), (int)round(gt));
 	if (showLSB == YES) {
 		[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
 	} else {
