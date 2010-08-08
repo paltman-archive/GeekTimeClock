@@ -13,19 +13,17 @@
 
 @synthesize window;
 
-- (void)applicationDidFinishLaunching:(NSNotification *)aNotification {
 
-}
-
--(void)awakeFromNib{
-	statusItem = [[[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength] retain];
+-(void)awakeFromNib {
+	showLSB = NO;
+ 	statusItem = [[[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength] retain];
 	[statusItem setMenu:statusMenu];
 	[statusItem setTitle:@"Geek Time"];
 	[statusItem setHighlightMode:YES];
 	NSDate *d = [NSDate date];
 	NSTimer *timer = [[NSTimer alloc] 
 					 initWithFireDate:d
-							 interval:0.25
+							 interval:0.5
 							   target:self 
 							 selector:@selector(timerFireMethod:)
 							 userInfo:nil
@@ -49,7 +47,21 @@
 	int minute_seconds = (60 * minute);
 	float partial_day = ((hour_seconds + minute_seconds + second) / (86400.0));
 	float gt = 65536 * partial_day;
-	[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
+	if (showLSB == YES) {
+		[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
+	} else {
+		[statusItem setTitle:[[NSString stringWithFormat:@"0x%X", (int)round(gt)] substringToIndex:4]];
+	
+	}
+}
+
+
+- (IBAction)toggleShowLSB:(id)sender {
+	if (showLSB == YES) {
+		showLSB = NO;
+	} else {
+		showLSB = YES;
+	}
 }
 
 - (IBAction)openGeekTimeDotOrg:(id)sender {
@@ -59,4 +71,5 @@
 - (IBAction)quit:(id)sender {
 	exit(0);
 }
+
 @end

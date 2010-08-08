@@ -11,7 +11,9 @@
 @interface GeekTimeClockAppDelegate : NSObject <NSApplicationDelegate> {
     NSWindow *window;
     IBOutlet NSMenu *statusMenu;
-    NSStatusItem * statusItem;
+	IBOutlet NSStatusItem *LSBToggleItem;
+    NSStatusItem *statusItem;
+	BOOL showLSB;
 }
 
 
@@ -20,6 +22,7 @@
 @property (assign) IBOutlet NSWindow *window;
 
 - (IBAction)openGeekTimeDotOrg:(id)sender;
+- (IBAction)toggleShowLSB:(id)sender;
 - (IBAction)quit:(id)sender;
 
 @end

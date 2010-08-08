@@ -197,7 +197,48 @@
 	<key>Notifications</key>
 	<array/>
 	<key>OpenEditors</key>
-	<array/>
+	<array>
+		<dict>
+			<key>Content</key>
+			<dict>
+				<key>PBXProjectModuleGUID</key>
+				<string>CD37D3C4120E70A70092ACB5</string>
+				<key>PBXProjectModuleLabel</key>
+				<string>GeekTimeClockAppDelegate.m</string>
+				<key>PBXSplitModuleInNavigatorKey</key>
+				<dict>
+					<key>Split0</key>
+					<dict>
+						<key>PBXProjectModuleGUID</key>
+						<string>CD37D3C5120E70A70092ACB5</string>
+						<key>PBXProjectModuleLabel</key>
+						<string>GeekTimeClockAppDelegate.m</string>
+						<key>_historyCapacity</key>
+						<integer>0</integer>
+						<key>bookmark</key>
+						<string>CD37D408120E74910092ACB5</string>
+						<key>history</key>
+						<array>
+							<string>CD37D3F3120E73700092ACB5</string>
+						</array>
+					</dict>
+					<key>SplitCount</key>
+					<string>1</string>
+				</dict>
+				<key>StatusBarVisibility</key>
+				<true/>
+			</dict>
+			<key>Geometry</key>
+			<dict>
+				<key>Frame</key>
+				<string>{{0, 20}, {750, 461}}</string>
+				<key>PBXModuleWindowStatusBarHidden2</key>
+				<false/>
+				<key>RubberWindowFrame</key>
+				<string>325 109 750 502 0 0 1440 878 </string>
+			</dict>
+		</dict>
+	</array>
 	<key>PerspectiveWidths</key>
 	<array>
 		<integer>-1</integer>
@@ -331,15 +372,15 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>CD37D373120E63E40092ACB5</string>
+										<string>CD37D407120E74910092ACB5</string>
 										<key>history</key>
 										<array>
 											<string>CD8346C2120D247B007597D8</string>
 											<string>CD8346C3120D247B007597D8</string>
 											<string>CD8346C4120D247B007597D8</string>
 											<string>CD8346C6120D247B007597D8</string>
-											<string>CD8346C9120D25E2007597D8</string>
-											<string>CD8346CA120D25E2007597D8</string>
+											<string>CD37D3F0120E73700092ACB5</string>
+											<string>CD37D3F1120E73700092ACB5</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -537,11 +578,13 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>CD37D406120E746D0092ACB5</string>
 		<string>CD37D316120DECDF0092ACB5</string>
 		<string>CD37D317120DECDF0092ACB5</string>
 		<string>1C78EAAD065D492600B07095</string>
 		<string>1CD10A99069EF8BA00B06720</string>
 		<string>CD8344C8120C8CA8007597D8</string>
+		<string>CD37D3C4120E70A70092ACB5</string>
 		<string>/Users/patrick/Projects/eldarion/GeekTimeClock/GeekTimeClock.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
@@ -566,7 +609,7 @@
 								<key>PBXProjectModuleGUID</key>
 								<string>1CD0528F0623707200166675</string>
 								<key>PBXProjectModuleLabel</key>
-								<string></string>
+								<string>GeekTimeClockAppDelegate.m</string>
 								<key>StatusBarVisibility</key>
 								<true/>
 							</dict>
@@ -583,6 +626,8 @@
 							<string>218pt</string>
 						</dict>
 						<dict>
+							<key>BecomeActive</key>
+							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
