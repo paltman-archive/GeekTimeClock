@@ -23,7 +23,7 @@
 	NSDate *d = [NSDate date];
 	NSTimer *timer = [[NSTimer alloc] 
 					 initWithFireDate:d
-							 interval:0.5
+							 interval:1.318359375  // 86400/65536
 							   target:self 
 							 selector:@selector(timerFireMethod:)
 							 userInfo:nil
@@ -51,7 +51,6 @@
 		[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
 	} else {
 		[statusItem setTitle:[[NSString stringWithFormat:@"0x%X", (int)round(gt)] substringToIndex:4]];
-	
 	}
 }
 
