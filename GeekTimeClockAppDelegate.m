@@ -25,7 +25,7 @@
 	NSDate *d = [NSDate date];
 	NSTimer *timer = [[NSTimer alloc] 
 					 initWithFireDate:d
-							 interval:0.65
+							 interval:0.25
 							   target:self 
 							 selector:@selector(timerFireMethod:)
 							 userInfo:nil
@@ -49,8 +49,7 @@
 	int minute_seconds = (60 * minute);
 	float partial_day = ((hour_seconds + minute_seconds + second) / (86400.0));
 	float gt = 65536 * partial_day;
-	int igt = (int)gt;
-	[statusItem setTitle:[NSString stringWithFormat:@"0x%X", igt]];
+	[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
 }
 
 - (IBAction)openGeekTimeDotOrg:(id)sender {
