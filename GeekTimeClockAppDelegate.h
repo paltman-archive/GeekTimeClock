@@ -14,6 +14,8 @@
 	IBOutlet NSStatusItem *LSBToggleItem;
     NSStatusItem *statusItem;
 	BOOL showLSB;
+	NSTimeZone *UTC;
+	NSCalendar *calendar;
 }
 
 

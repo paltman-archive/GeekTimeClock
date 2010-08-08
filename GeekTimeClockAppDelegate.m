@@ -15,6 +15,7 @@
 
 
 -(void)awakeFromNib {
+	UTC = [NSTimeZone timeZoneWithName:@"UTC"];
 	showLSB = NO;
  	statusItem = [[[NSStatusBar systemStatusBar] statusItemWithLength:NSVariableStatusItemLength] retain];
 	[statusItem setMenu:statusMenu];
@@ -23,7 +24,7 @@
 	NSDate *d = [NSDate date];
 	NSTimer *timer = [[NSTimer alloc] 
 					 initWithFireDate:d
-							 interval:1.318359375  // 86400/65536
+							 interval:0.65
 							   target:self 
 							 selector:@selector(timerFireMethod:)
 							 userInfo:nil
@@ -36,17 +37,20 @@
 
 - (void)timerFireMethod:(NSTimer *)aTimer {
 	NSDate *date = [NSDate date];
-	NSTimeZone *UTC = [NSTimeZone timeZoneWithName:@"UTC"];
-	NSCalendar *calendar = [NSCalendar currentCalendar];
+	
+	calendar = [NSCalendar currentCalendar];
 	[calendar setTimeZone:UTC];
 	NSDateComponents *timeComponents = [calendar components:( NSHourCalendarUnit | NSMinuteCalendarUnit | NSSecondCalendarUnit ) fromDate:date];
-	int second = [timeComponents second];
-	int minute = [timeComponents minute];
-	int hour = [timeComponents hour];
-	int hour_seconds = (3600 * hour);
-	int minute_seconds = (60 * minute);
-	float partial_day = ((hour_seconds + minute_seconds + second) / (86400.0));
-	float gt = 65536 * partial_day;
+	
+	double all = [[NSDate date] timeIntervalSince1970];
+	double ms = 1000 * (all - (int)all);
+	int seconds = 1000 * [timeComponents second];
+	int minute_seconds = 60000 * [timeComponents minute];
+	int hour_seconds = 3600000 * [timeComponents hour];
+	
+	float gt = 65536 * ((hour_seconds + minute_seconds + seconds + ms) / (86400000.0));
+
+	NSLog(@"%f %d 0x%X", gt, (int)round(gt), (int)round(gt));
 	if (showLSB == YES) {
 		[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
 	} else {
