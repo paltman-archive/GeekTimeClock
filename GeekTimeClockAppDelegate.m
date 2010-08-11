@@ -44,12 +44,14 @@
 	int hour_seconds = 3600000 * [timeComponents hour];
 	
 	float gt = 65536 * ((hour_seconds + minute_seconds + seconds + ms) / (86400000.0));
-
-	if (showLSB == YES) {
-		[statusItem setTitle:[NSString stringWithFormat:@"0x%X", (int)round(gt)]];
-	} else {
-		[statusItem setTitle:[[NSString stringWithFormat:@"0x%X", (int)round(gt)] substringToIndex:4]];
+	
+	NSString *theTime = [NSString stringWithFormat:@"0x%04X", (int)round(gt)];
+	
+	if (!showLSB) {
+		theTime = [theTime substringToIndex:4];
 	}
+	
+	[statusItem setTitle:theTime];
 }
 
 
