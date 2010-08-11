@@ -37,7 +37,7 @@
 	[calendar setTimeZone:UTC];
 	NSDateComponents *timeComponents = [calendar components:( NSHourCalendarUnit | NSMinuteCalendarUnit | NSSecondCalendarUnit ) fromDate:date];
 	
-	double all = [[NSDate date] timeIntervalSince1970];
+	double all = [date timeIntervalSince1970];
 	double ms = 1000 * (all - (int)all);
 	int seconds = 1000 * [timeComponents second];
 	int minute_seconds = 60000 * [timeComponents minute];
